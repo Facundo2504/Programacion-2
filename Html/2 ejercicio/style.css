@@ -1,0 +1,17 @@
+.fondo{
+    background-color: #4c9036;
+    width: 50%;
+    /*text-align: center;*/
+    margin: auto;
+
+}
+
+.grupo-input{
+    margin-bottom: 20px;
+
+}
+
+.grupo-input label{
+    display: block;
+    margin-bottom: 5px;
+}

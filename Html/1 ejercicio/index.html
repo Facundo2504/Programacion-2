@@ -1,0 +1,40 @@
+<!DOCTYPE html> 
+<!-- 1. Debe tener encabezado "Registrar persona"
+2. Los campos a ingresar serán: Nombre, Apellido, Sexo (dos opciones), Fecha de nacimiento (tipo fecha) y Ciudad (seleccionar varias)
+3. Agregar un boton Guardar y un boton Cancelar-->
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 1</title>
+
+</head>
+<body>
+    <h1>Registrar persona</h1>
+
+    <form>
+
+
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required>
+        <br><br>
+        <label for="apellido">Apellido:</label>
+        <input type="text" id="apellido" name="apellido" required>
+        <br><br>
+        <label for="sexo">Sexo:</label>
+        <input type="radio" id="masculino" name="sexo" value="masculino" required>
+        <label for="masculino">Masculino</label>
+        <input type="radio" id="femenino" name="sexo" value="femenino" required>
+        <label for="femenino">Femenino</label>
+
+        <br><br>
+        <label for="fechaNacimiento">Fecha de nacimiento:</label>
+        <input type="date" id="fechaNacimiento" name="fechaNacimiento" required>
+        <br><br>
+        <label for="ciudad">Ciudad:</label>
+        <select id="ciudad" name="ciudad" multiple required>
+            <option value="ciudad1">Ciudad 1</option>
+            <option value="ciudad2">Ciudad 2</option>
+            <option value="ciudad3">Ciudad 3</option>
+            <option value="ciudad4">Ciudad 4</option>
+        </select>
+    </form>
+</body>
