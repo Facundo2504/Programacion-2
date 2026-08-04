@@ -1,0 +1,63 @@
+﻿namespace SingletonForms
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+
+            // Combo de idiomas
+            comboIdiomas = new ComboBox();
+            comboIdiomas.Location = new Point(20, 20);
+            comboIdiomas.DropDownStyle = ComboBoxStyle.DropDownList;
+            Controls.Add(comboIdiomas);
+
+            // Label para mostrar idioma
+            lblIdioma = new Label();
+            lblIdioma.Location = new Point(20, 60);
+            lblIdioma.AutoSize = true;
+            Controls.Add(lblIdioma);
+
+            // Botones para abrir otros forms
+            btnForm2 = new Button();
+            btnForm2.Text = "Abrir Form2";
+            btnForm2.Location = new Point(20, 100);
+            Controls.Add(btnForm2);
+
+            btnForm3 = new Button();
+            btnForm3.Text = "Abrir Form3";
+            btnForm3.Location = new Point(140, 100);
+            Controls.Add(btnForm3);
+
+            Text = "Form1";
+        }
+
+        #endregion
+    }
+}

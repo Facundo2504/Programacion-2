@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Back/Back.csproj" />
+  <Project Path="SingletonForms/SingletonForms.csproj" />
+</Solution>

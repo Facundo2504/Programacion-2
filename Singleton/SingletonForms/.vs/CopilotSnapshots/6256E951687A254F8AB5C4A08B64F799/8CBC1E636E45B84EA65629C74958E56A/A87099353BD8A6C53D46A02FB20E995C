@@ -1,0 +1,58 @@
+﻿using System;
+using System.Windows.Forms;
+using System.Drawing;
+
+namespace SingletonForms
+{
+    public partial class FormPrincipal : Form
+    {
+        public FormPrincipal()
+        {
+            InitializeComponent();
+
+            // Poblar combo con idiomas disponibles (usamos objetos Idioma opcionales)
+            comboIdiomas.Items.AddRange(new object[] { "Español", "English", "Português", "Français", "Deutsch" });
+            comboIdiomas.SelectedIndexChanged += ComboIdiomas_SelectedIndexChanged;
+
+            // Botones
+            btnForm2.Click += BtnForm2_Click;
+            btnForm3.Click += BtnForm3_Click;
+
+            // Mostrar el idioma actual
+            lblIdioma.Text = "Idioma: " + Back.ConfigSingleton.Instance.Idioma;
+        }
+
+        private void ComboIdiomas_SelectedIndexChanged(object? sender, EventArgs e)
+        {
+            var idioma = comboIdiomas.SelectedItem?.ToString() ?? string.Empty;
+            Back.ConfigSingleton.Instance.SetIdioma(idioma);
+            lblIdioma.Text = "Idioma: " + Back.ConfigSingleton.Instance.Idioma;
+        }
+
+        private void BtnForm2_Click(object? sender, EventArgs e)
+        {
+            var f2 = new Form2();
+            f2.Show();
+        }
+
+        private void BtnForm3_Click(object? sender, EventArgs e)
+        {
+            var f3 = new Form3();
+            f3.Show();
+        }
+
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+            // Establecer el idioma inicial en el combo según el singleton
+            var actual = Back.ConfigSingleton.Instance.Idioma;
+            for (int i = 0; i < comboIdiomas.Items.Count; i++)
+            {
+                if (comboIdiomas.Items[i]?.ToString() == actual)
+                {
+                    comboIdiomas.SelectedIndex = i;
+                    break;
+                }
+            }
+        }
+    }
+}

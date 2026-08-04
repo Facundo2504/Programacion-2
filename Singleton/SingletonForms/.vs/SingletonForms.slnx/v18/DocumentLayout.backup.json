@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3D3047-8BE2-4639-A942-B31779A11417}|Back\\Back.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\back\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3D3047-8BE2-4639-A942-B31779A11417}|Back\\Back.csproj|solutionrelative:back\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\singletonforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|solutionrelative:singletonforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\singletonforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|solutionrelative:singletonforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\singletonforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|solutionrelative:singletonforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\singletonforms\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|solutionrelative:singletonforms\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\singletonforms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|solutionrelative:singletonforms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\singletonforms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|solutionrelative:singletonforms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3D3047-8BE2-4639-A942-B31779A11417}|Back\\Back.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\back\\configsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3D3047-8BE2-4639-A942-B31779A11417}|Back\\Back.csproj|solutionrelative:back\\configsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3D3047-8BE2-4639-A942-B31779A11417}|Back\\Back.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\back\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3D3047-8BE2-4639-A942-B31779A11417}|Back\\Back.csproj|solutionrelative:back\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|c:\\users\\facu_\\documents\\github\\programacion 2\\singleton\\singletonforms\\singletonforms\\singletonforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59B14BDD-F790-4FEE-89BE-5E6756103357}|SingletonForms\\SingletonForms.csproj|solutionrelative:singletonforms\\singletonforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SingletonForms",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\SingletonForms.csproj",
+              "RelativeDocumentMoniker": "SingletonForms\\SingletonForms.csproj",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\SingletonForms.csproj",
+              "RelativeToolTip": "SingletonForms\\SingletonForms.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-04T21:07:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\Form1.cs",
+              "RelativeDocumentMoniker": "SingletonForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\Form1.cs",
+              "RelativeToolTip": "SingletonForms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T21:01:41.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\Form3.cs",
+              "RelativeDocumentMoniker": "SingletonForms\\Form3.cs",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\Form3.cs",
+              "RelativeToolTip": "SingletonForms\\Form3.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T20:58:48.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\Form2.cs",
+              "RelativeDocumentMoniker": "SingletonForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\Form2.cs",
+              "RelativeToolTip": "SingletonForms\\Form2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T20:58:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "SingletonForms\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "SingletonForms\\FormPrincipal.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T20:56:30.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "SingletonForms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\FormPrincipal.cs",
+              "RelativeToolTip": "SingletonForms\\FormPrincipal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T20:56:24.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Idioma.cs",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\Idioma.cs",
+              "RelativeDocumentMoniker": "Back\\Idioma.cs",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\Idioma.cs",
+              "RelativeToolTip": "Back\\Idioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T20:55:18.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\ConfigSingleton.cs",
+              "RelativeDocumentMoniker": "Back\\ConfigSingleton.cs",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\ConfigSingleton.cs",
+              "RelativeToolTip": "Back\\ConfigSingleton.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T20:47:03.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "SingletonForms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\SingletonForms\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SingletonForms\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T20:44:18.963Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\Class1.cs",
+              "RelativeDocumentMoniker": "Back\\Class1.cs",
+              "ToolTip": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\Class1.cs",
+              "RelativeToolTip": "Back\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T20:46:17.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

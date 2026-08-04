@@ -1,0 +1,34 @@
+using System;
+using System.Windows.Forms;
+using System.Drawing;
+using Backend.Configuracion;
+
+namespace SingletonForms
+{
+    public class Form3 : Form
+    {
+        private Label lblMostrar;
+
+        public Form3()
+        {
+            InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            Text = "Form3";
+            ClientSize = new Size(400, 200);
+            lblMostrar = new Label();
+            lblMostrar.Location = new Point(20, 20);
+            lblMostrar.AutoSize = true;
+            Controls.Add(lblMostrar);
+
+            Load += Form3_Load;
+        }
+
+        private void Form3_Load(object? sender, EventArgs e)
+        {
+            lblMostrar.Text = "Idioma: " + ConfigSingleton.Instancia.IdiomaSeleccionado.Nombre;
+        }
+    }
+}

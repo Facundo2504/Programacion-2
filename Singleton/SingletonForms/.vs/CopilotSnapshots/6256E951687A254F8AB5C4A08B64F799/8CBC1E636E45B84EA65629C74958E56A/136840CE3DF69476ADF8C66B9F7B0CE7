@@ -1,0 +1,29 @@
+﻿using System;
+
+namespace Back
+{
+    // Simple singleton to store the selected language as a string.
+    public sealed class ConfigSingleton
+    {
+        private static readonly ConfigSingleton _instance = new ConfigSingleton();
+
+        public static ConfigSingleton Instance => _instance;
+
+        public string Idioma { get; private set; }
+
+        private ConfigSingleton()
+        {
+            Idioma = "Español";
+        }
+
+        public void SetIdioma(string idioma)
+        {
+            if (string.IsNullOrWhiteSpace(idioma))
+            {
+                throw new ArgumentException("El idioma no puede ser vacío.", nameof(idioma));
+            }
+
+            Idioma = idioma;
+        }
+    }
+}
