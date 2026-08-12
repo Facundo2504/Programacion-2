@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Observer.Core/Observer.Core.csproj" />
+  <Project Path="Observer.WinForms/Observer.WinForms.csproj" />
+</Solution>
