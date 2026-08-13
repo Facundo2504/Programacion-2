@@ -36,7 +36,7 @@
             // lblTemperatura
             // 
             lblTemperatura.AutoSize = true;
-            lblTemperatura.Location = new Point (70, 226);
+            lblTemperatura.Location = new Point (14, 14);
             lblTemperatura.Name = "lblTemperatura";
             lblTemperatura.Size = new Size (100, 20);
             lblTemperatura.TabIndex = 0;
@@ -46,7 +46,7 @@
             // lblHumedad
             // 
             lblHumedad.AutoSize = true;
-            lblHumedad.Location = new Point (70, 278);
+            lblHumedad.Location = new Point (14, 65);
             lblHumedad.Name = "lblHumedad";
             lblHumedad.Size = new Size (82, 20);
             lblHumedad.TabIndex = 1;
@@ -67,7 +67,7 @@
             Controls.Add (lblHumedad);
             Controls.Add (lblTemperatura);
             Name = "PanelActualControl";
-            Size = new Size (890, 560);
+            Size = new Size (125, 108);
             Load += PanelActualControl_Load;
             ResumeLayout (false);
             PerformLayout ();

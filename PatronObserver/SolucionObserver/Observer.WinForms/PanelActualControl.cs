@@ -9,7 +9,7 @@ using Observer.Core;
 
 namespace Observer.WinForms
 {
-    public partial class PanelActualControl : UserControl
+    public partial class PanelActualControl : UserControl, IPanel
     {
         public PanelActualControl ( )
         {

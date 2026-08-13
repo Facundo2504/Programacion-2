@@ -31,42 +31,51 @@
             btnPublicar = new Button ();
             nudTemperatura = new NumericUpDown ();
             nudHumedad = new NumericUpDown ();
+            panelActualControl1 = new PanelActualControl ();
             ((System.ComponentModel.ISupportInitialize)nudTemperatura).BeginInit ();
             ((System.ComponentModel.ISupportInitialize)nudHumedad).BeginInit ();
             SuspendLayout ();
             // 
             // btnPublicar
             // 
-            btnPublicar.Location = new Point (472, 290);
+            btnPublicar.Location = new Point (178, 215);
             btnPublicar.Name = "btnPublicar";
             btnPublicar.Size = new Size (150, 29);
             btnPublicar.TabIndex = 0;
             btnPublicar.Text = "Publicar";
             btnPublicar.UseVisualStyleBackColor = true;
-            btnPublicar.Click += button1_Click;
+            btnPublicar.Click += btnPublicar_Click;
             // 
             // nudTemperatura
             // 
-            nudTemperatura.Location = new Point (472, 159);
+            nudTemperatura.Location = new Point (178, 73);
             nudTemperatura.Name = "nudTemperatura";
             nudTemperatura.Size = new Size (150, 27);
             nudTemperatura.TabIndex = 1;
             // 
             // nudHumedad
             // 
-            nudHumedad.Location = new Point (472, 215);
+            nudHumedad.Location = new Point (178, 141);
             nudHumedad.Name = "nudHumedad";
             nudHumedad.Size = new Size (150, 27);
             nudHumedad.TabIndex = 2;
+            // 
+            // panelActualControl1
+            // 
+            panelActualControl1.Location = new Point (96, 273);
+            panelActualControl1.Name = "panelActualControl1";
+            panelActualControl1.Size = new Size (357, 334);
+            panelActualControl1.TabIndex = 3;
             // 
             // FrmPrincipal
             // 
             AutoScaleDimensions = new SizeF (8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size (800, 450);
+            ClientSize = new Size (880, 641);
             Controls.Add (nudHumedad);
             Controls.Add (nudTemperatura);
             Controls.Add (btnPublicar);
+            Controls.Add (panelActualControl1);
             Name = "FrmPrincipal";
             Text = "FrmPrincipal";
             Load += FrmPrincipal_Load;
@@ -80,5 +89,6 @@
         private Button btnPublicar;
         private NumericUpDown nudTemperatura;
         private NumericUpDown nudHumedad;
+        private PanelActualControl panelActualControl1;
     }
 }

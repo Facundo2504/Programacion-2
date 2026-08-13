@@ -3,7 +3,6 @@ C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionO
 C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\bin\Debug\net10.0-windows\Observer.WinForms.runtimeconfig.json
 C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\bin\Debug\net10.0-windows\Observer.WinForms.dll
 C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\bin\Debug\net10.0-windows\Observer.WinForms.pdb
-C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\obj\Debug\net10.0-windows\Observer.WinForms.Form1.resources
 C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\obj\Debug\net10.0-windows\Observer.WinForms.csproj.GenerateResource.cache
 C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\obj\Debug\net10.0-windows\Observer.WinForms.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\obj\Debug\net10.0-windows\Observer.WinForms.AssemblyInfoInputs.cache
@@ -18,3 +17,6 @@ C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionO
 C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\obj\Debug\net10.0-windows\Observer.WinForms.csproj.AssemblyReference.cache
 C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\obj\Debug\net10.0-windows\Observer.WinForms.FrmPrincipal.resources
 C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\obj\Debug\net10.0-windows\Observer.WinForms.PanelActualControl.resources
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\bin\Debug\net10.0-windows\Observer.Core.dll
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\bin\Debug\net10.0-windows\Observer.Core.pdb
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.WinForms\obj\Debug\net10.0-windows\Observer.FDD14809.Up2Date

@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "Observer.WinForms/1.0.0": {
+        "dependencies": {
+          "Observer.Core": "1.0.0"
+        },
         "runtime": {
           "Observer.WinForms.dll": {}
+        }
+      },
+      "Observer.Core/1.0.0": {
+        "runtime": {
+          "Observer.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Observer.WinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Observer.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
