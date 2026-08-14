@@ -1,0 +1,12 @@
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\bin\Debug\net10.0\Observer.Core.deps.json
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\bin\Debug\net10.0\Observer.Core.dll
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\bin\Debug\net10.0\Observer.Core.pdb
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\obj\Debug\net10.0\Observer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\obj\Debug\net10.0\Observer.Core.AssemblyInfoInputs.cache
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\obj\Debug\net10.0\Observer.Core.AssemblyInfo.cs
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\obj\Debug\net10.0\Observer.Core.csproj.CoreCompileInputs.cache
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\obj\Debug\net10.0\Observer.Core.sourcelink.json
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\obj\Debug\net10.0\Observer.Core.dll
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\obj\Debug\net10.0\refint\Observer.Core.dll
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\obj\Debug\net10.0\Observer.Core.pdb
+C:\Users\facu_\OneDrive\Documents\GitHub\Programacion-2\PatronObserver\SolucionObserver\Observer.Core\obj\Debug\net10.0\ref\Observer.Core.dll

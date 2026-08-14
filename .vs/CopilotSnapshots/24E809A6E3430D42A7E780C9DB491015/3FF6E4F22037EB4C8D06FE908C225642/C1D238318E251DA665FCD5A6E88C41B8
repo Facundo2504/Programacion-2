@@ -1,0 +1,25 @@
+﻿using System;
+
+namespace Observer.Core
+{
+    public class Suscripcion : IDisposable
+    {
+        private readonly Action _desuscribir;
+        private bool _liberada;
+
+        public Suscripcion(Action desuscribir)
+        {
+            _desuscribir = desuscribir;
+        }
+
+        public void Dispose()
+        {
+            if (_liberada)
+                return;
+
+            _desuscribir();
+
+            _liberada = true;
+        }
+    }
+}

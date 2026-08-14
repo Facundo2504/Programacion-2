@@ -1,0 +1,87 @@
+﻿namespace Observer.WinForms
+{
+    partial class FrmPrincipal
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose ( bool disposing )
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose ();
+            }
+            base.Dispose (disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent ( )
+        {
+            btnPublicar = new Button ();
+            nudTemperatura = new NumericUpDown ();
+            nudHumedad = new NumericUpDown ();
+            panelActualControl1 = new PanelActualControl ();
+            ((System.ComponentModel.ISupportInitialize)nudTemperatura).BeginInit ();
+            ((System.ComponentModel.ISupportInitialize)nudHumedad).BeginInit ();
+            SuspendLayout ();
+            // 
+            // btnPublicar
+            // 
+            btnPublicar.Location = new Point (472, 290);
+            btnPublicar.Name = "btnPublicar";
+            btnPublicar.Size = new Size (150, 29);
+            btnPublicar.TabIndex = 0;
+            btnPublicar.Text = "Publicar";
+            btnPublicar.UseVisualStyleBackColor = true;
+            btnPublicar.Click += btnPublicar_Click;
+            // 
+            // nudTemperatura
+            // 
+            nudTemperatura.Location = new Point (472, 159);
+            nudTemperatura.Name = "nudTemperatura";
+            nudTemperatura.Size = new Size (150, 27);
+            nudTemperatura.TabIndex = 1;
+            // 
+            // nudHumedad
+            // 
+            nudHumedad.Location = new Point (472, 215);
+            nudHumedad.Name = "nudHumedad";
+            nudHumedad.Size = new Size (150, 27);
+            nudHumedad.TabIndex = 2;
+            // 
+            // FrmPrincipal
+            // 
+            AutoScaleDimensions = new SizeF (8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size (800, 450);
+            Controls.Add (nudHumedad);
+            Controls.Add (nudTemperatura);
+            Controls.Add (btnPublicar);
+            Controls.Add (panelActualControl1);
+            Name = "FrmPrincipal";
+            Text = "FrmPrincipal";
+            Load += FrmPrincipal_Load;
+            ((System.ComponentModel.ISupportInitialize)nudTemperatura).EndInit ();
+            ((System.ComponentModel.ISupportInitialize)nudHumedad).EndInit ();
+            ResumeLayout (false);
+        }
+
+        #endregion
+
+        private Button btnPublicar;
+        private NumericUpDown nudTemperatura;
+        private NumericUpDown nudHumedad;
+        private PanelActualControl panelActualControl1;
+    }
+}

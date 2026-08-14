@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Observer.Core
+{
+    public class LecturaEventArgs : EventArgs
+    {
+        public Lectura Lectura { get; }
+
+        public LecturaEventArgs ( Lectura lectura )
+        {
+            Lectura = lectura;
+        }
+
+    }
+}

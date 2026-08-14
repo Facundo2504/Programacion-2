@@ -1,0 +1,52 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Observer.Core
+{
+    public class EstacionMeteorologica
+    {
+        public event EventHandler<LecturaEventArgs>? LecturaPublicada;
+
+        public IDisposable Suscribir(IPanel panel)
+        {
+            EventHandler<LecturaEventArgs> handler =
+                (sender, e) => panel.Recibir(e.Lectura);
+
+            LecturaPublicada += handler;
+
+            return new Suscripcion(() =>
+            {
+                LecturaPublicada -= handler;
+            });
+        }
+
+
+        public void Publicar(Lectura lectura)
+        {
+            var observadores = LecturaPublicada?.GetInvocationList();
+
+            if (observadores == null)
+                return;
+
+            LecturaEventArgs args =
+                new LecturaEventArgs(lectura);
+
+            foreach (Delegate observador in observadores)
+            {
+                try
+                {
+                    EventHandler<LecturaEventArgs> handler =
+                        (EventHandler<LecturaEventArgs>)observador;
+
+                    handler(this, args);
+                }
+                catch (Exception ex)
+                {
+                    System.Diagnostics.Debug.WriteLine(
+                        $"Error notificando observador: {ex.Message}"
+                    );
+                }
+            }
+        }
+    }
