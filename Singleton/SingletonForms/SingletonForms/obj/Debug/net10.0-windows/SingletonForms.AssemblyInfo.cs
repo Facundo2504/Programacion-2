@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingletonForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6443cfa4d8aaad16ec4327d3499a01e4880966b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+facd12d375ff7b214c87888cc5093f139c29ab69")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingletonForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingletonForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
