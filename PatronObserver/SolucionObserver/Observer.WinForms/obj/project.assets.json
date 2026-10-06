@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\facu_\\OneDrive\\Documents\\GitHub\\Programacion-2\\PatronObserver\\SolucionObserver\\Observer.WinForms\\Observer.WinForms.csproj",
+      "projectUniqueName": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\SolucionObserver\\Observer.WinForms\\Observer.WinForms.csproj",
       "projectName": "Observer.WinForms",
-      "projectPath": "C:\\Users\\facu_\\OneDrive\\Documents\\GitHub\\Programacion-2\\PatronObserver\\SolucionObserver\\Observer.WinForms\\Observer.WinForms.csproj",
+      "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\SolucionObserver\\Observer.WinForms\\Observer.WinForms.csproj",
       "packagesPath": "C:\\Users\\facu_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\facu_\\OneDrive\\Documents\\GitHub\\Programacion-2\\PatronObserver\\SolucionObserver\\Observer.WinForms\\obj\\",
+      "outputPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\SolucionObserver\\Observer.WinForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,8 +60,8 @@
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
           "projectReferences": {
-            "C:\\Users\\facu_\\OneDrive\\Documents\\GitHub\\Programacion-2\\PatronObserver\\SolucionObserver\\Observer.Core\\Observer.Core.csproj": {
-              "projectPath": "C:\\Users\\facu_\\OneDrive\\Documents\\GitHub\\Programacion-2\\PatronObserver\\SolucionObserver\\Observer.Core\\Observer.Core.csproj"
+            "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\SolucionObserver\\Observer.Core\\Observer.Core.csproj": {
+              "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\SolucionObserver\\Observer.Core\\Observer.Core.csproj"
             }
           }
         }
