@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver.csproj": {}
+    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj",
         "packagesPath": "C:\\Users\\facu_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver.csproj": {
+    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver.csproj",
+        "projectUniqueName": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver.csproj",
         "projectName": "EjemploObserver",
-        "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver.csproj",
+        "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver.csproj",
         "packagesPath": "C:\\Users\\facu_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\obj\\",
+        "outputPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\EjemploObserver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +102,8 @@
             "framework": "net8.0-windows7.0",
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj": {
-                "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj"
+              "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\PatronObserver\\EjemploObserver\\EjemploObserver\\ClassLibrary1\\ClassLibrary1.csproj"
               }
             }
           }

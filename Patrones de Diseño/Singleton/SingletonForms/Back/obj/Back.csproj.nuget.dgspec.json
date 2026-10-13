@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\Back.csproj": {}
+    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\Singleton\\SingletonForms\\Back\\Back.csproj": {}
   },
   "projects": {
-    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\Back.csproj": {
+    "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\Singleton\\SingletonForms\\Back\\Back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\Back.csproj",
+        "projectUniqueName": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\Singleton\\SingletonForms\\Back\\Back.csproj",
         "projectName": "Back",
-        "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\Back.csproj",
+        "projectPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\Singleton\\SingletonForms\\Back\\Back.csproj",
         "packagesPath": "C:\\Users\\facu_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Singleton\\SingletonForms\\Back\\obj\\",
+        "outputPath": "C:\\Users\\facu_\\Documents\\GitHub\\Programacion 2\\Patrones de Diseño\\Singleton\\SingletonForms\\Back\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
